@@ -122,7 +122,7 @@ var data = {
         },
         lunge: {
             levelMax: "3",
-            weight: "5",
+            weight: "1",
             incompatible: [],
             items: ["spear"]
         },

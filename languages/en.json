@@ -56,6 +56,7 @@
 
         "sword": "Sword",
         "axe": "Axe",
+        "spear": "Spear",
         "mace": "Mace",
         "trident": "Trident",
         "pickaxe": "Pickaxe",
@@ -117,6 +118,7 @@
         "vanishing_curse": "Curse of Vanishing",
         "density": "Density",
         "breach": "Breach",
-        "wind_burst": "Wind Burst"
+        "wind_burst": "Wind Burst",
+        "lunge": "Lunge"
     }
 }
